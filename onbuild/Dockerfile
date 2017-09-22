@@ -1,4 +1,4 @@
-FROM abernix/meteord:base
+FROM upmetrics/app:base
 MAINTAINER MeteorHacks Pvt Ltd.
 
 ARG NODE_VERSION

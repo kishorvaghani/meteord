@@ -1,4 +1,4 @@
-FROM abernix/meteord:base
+FROM upmetrics/app:base
 MAINTAINER Jesse Rosenberger
 
 ARG NODE_VERSION

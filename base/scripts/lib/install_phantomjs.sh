@@ -1,4 +1,6 @@
+#!/bin/bash
 # Install PhantomJS
+
 set -e
 apt-get -y install libfreetype6 libfreetype6-dev fontconfig
 ARCH=`uname -m`

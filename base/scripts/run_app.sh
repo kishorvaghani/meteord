@@ -48,4 +48,3 @@ export PORT=${PORT:-80}
 
 echo "=> Starting meteor app on port:$PORT"
 node main.js
-node programs/server/assets/app/web/app.js
